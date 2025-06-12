@@ -14,7 +14,6 @@
 
 ### 🌟 About Me
 
-```yaml
 name: Wali Allah
 role: Full-Stack Developer & Final Year CS Student
 location: Lahore, Pakistan
@@ -81,4 +80,3 @@ OR
 ---
 
 <p align="center">🧠 Let's code the future, securely and smartly.</p>
-```
