@@ -170,22 +170,13 @@ An enterprise-grade spam detection system implementing Zero Trust security princ
 
 <div align="center">
 
-<a href="https://github.com/waliallah019">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waliallah019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waliallah019&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waliallah019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waliallah019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=waliallah019&theme=tokyonight&hide_border=true)](https://github.com/waliallah019)
+![GitHub Streak](https://streak-stats.demolab.com/?user=waliallah019&theme=tokyonight&hide_border=true)
 
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waliallah019&theme=tokyo-night&hide_border=true&area=true)](https://github.com/waliallah019)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waliallah019&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
