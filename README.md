@@ -16,15 +16,18 @@
 
 ```yaml
 name: Wali Allah
-role: Software Engineer & CS Student
+role: Software Engineer | CS Undergrad
 location: Lahore, Pakistan
 university: University of Engineering and Technology, Lahore
 graduation: 2026
-focus: [AI/ML Systems, Full-Stack Development, Security]
+focus: [AI/ML Systems, Full-Stack Development, LLM Systems]
 ```
 
-I specialize in building intelligent, secure applications that solve real-world problems. My expertise spans AI-powered systems, full-stack web development, and enterprise security solutions. I'm passionate about leveraging cutting-edge technologies like LLMs, machine learning, and modern web frameworks to create scalable, impactful software while maintaining the highest standards of code quality and security.
+I like building things that work and understanding why they work.
 
+My interests revolve around AI/ML systems, full-stack development, and secure software design. I enjoy exploring LLMs, machine learning, and modern frameworks to create scalable, meaningful applications while keeping the codebase clean and maintainable.
+
+Learning by doing, one project at a time.
 ---
 
 ## Technical Expertise
@@ -184,8 +187,6 @@ I'm always open to discussing innovative projects, technical challenges, or coll
 <div align="center">
 
 ### 99% building, 1% bragging
-
-Someone is watching 👁️👁️ ![](https://komarev.com/ghpvc/?username=waliallah019&color=blueviolet&style=flat-square)
 
 
 </div>
