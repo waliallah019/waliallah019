@@ -16,13 +16,14 @@
 
 ```yaml
 name: Wali Allah
-role: Full-Stack Developer & Final Year CS Student
+role: Software Engineer & CS Student
 location: Lahore, Pakistan
-focus: [Clean Architecture, Security, User Experience]
-education: Computer Science @ UET Lahore
+university: University of Engineering and Technology, Lahore
+graduation: 2026
+focus: [AI/ML Systems, Full-Stack Development, Security]
 ```
 
-I specialize in building secure, scalable applications that solve real-world problems. My work spans across AI-powered systems, SaaS platforms, and API security, with a strong emphasis on clean code and robust architecture. I'm passionate about leveraging technology to create impactful solutions while maintaining the highest standards of security and performance.
+I specialize in building intelligent, secure applications that solve real-world problems. My expertise spans AI-powered systems, full-stack web development, and enterprise security solutions. I'm passionate about leveraging cutting-edge technologies like LLMs, machine learning, and modern web frameworks to create scalable, impactful software while maintaining the highest standards of code quality and security.
 
 ---
 
@@ -30,113 +31,138 @@ I specialize in building secure, scalable applications that solve real-world pro
 
 ### Languages & Core Technologies
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frameworks & Tools
+### Frontend Development
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Databases & AI/ML
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
+
+### AI/ML & Data
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
+
+### Databases & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### EduVance
-**SaaS LMS Platform with AI-Powered Timetable Automation**
+### AutoGit – AI-Powered Git Assistant
+**Intelligent VS Code Extension for Automated Git Workflows**
+
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/AutoGit)
+
+A sophisticated VS Code extension that revolutionizes Git workflows through AI automation, leveraging fine-tuned LLMs for intelligent commit message generation and merge conflict resolution.
+
+**Tech Stack:** Python, Flask, LLMs (LLaMA 3, Mistral, GPT-4), Neo4j, VS Code Extension API, RAG, LoRA
+
+**Key Features:**
+- Fine-tuned LLM integration for context-aware commit message generation
+- Multi-agent architecture for pre-commit bug detection and code quality analysis
+- Neo4j-based graph database for visualizing code evolution and dependencies
+- RAG (Retrieval-Augmented Generation) with LoRA fine-tuning for accurate, context-aware responses
+- Automated merge conflict resolution with intelligent suggestion system
+
+**Technical Highlights:**
+- Implemented distributed agent system for parallel code analysis
+- Designed custom graph schemas for tracking code changes over time
+- Integrated GitHub API for seamless repository management
+
+---
+
+### Eduvance – Learning Management System
+**Enterprise-Grade SaaS Platform for Educational Institutions**
 
 [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/eduvance)
 
-A comprehensive Learning Management System designed for educational institutions, featuring AI-based timetable generation, real-time attendance tracking, and role-based access control.
+A comprehensive real-time Learning Management System designed to streamline educational administration through intelligent automation and secure access control.
 
-**Tech Stack:** MERN, TypeScript, Tailwind CSS, JWT, AI Algorithms
+**Tech Stack:** React.js, Vite, Tailwind CSS, TypeScript, Node.js, Express.js, MongoDB
 
 **Key Features:**
-- Automated timetable generation using constraint satisfaction algorithms
-- Real-time attendance management with analytics dashboard
-- Secure authentication and authorization system
-- Responsive design for seamless cross-device experience
+- JWT-based authentication with role-based access control (RBAC) for multi-tenant security
+- Real-time attendance tracking system with automated notifications
+- CSP-based (Constraint Satisfaction Problem) timetable generation algorithm
+- Responsive, component-based architecture for optimal performance
+- Admin dashboard with comprehensive analytics and reporting
+
+**Technical Highlights:**
+- Designed scalable microservices architecture for handling concurrent users
+- Implemented WebSocket connections for real-time data synchronization
+- Optimized database queries reducing load time by 40%
+- Built reusable UI component library with TypeScript for type safety
 
 ---
 
-### Zero Trust Spam Detection
-**ML-Powered Email Security with Advanced Threat Detection**
+### ZTrust – Zero Trust Spam Detection System
+**ML-Powered Email Security with Zero Trust Architecture**
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/spam-zero-trust)
+[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/ZTrust-Email-Inspector)
 
-Enterprise-grade spam detection API implementing Zero Trust security principles with machine learning at its core.
+An enterprise-grade spam detection system implementing Zero Trust security principles with advanced machine learning models and comprehensive threat monitoring.
 
-**Tech Stack:** Flask, Scikit-learn, JWT, TF-IDF, MongoDB
-
-**Key Features:**
-- Role-based access control with JWT authentication
-- Adversarial input filtering and validation
-- Real-time logging and threat monitoring
-- RESTful API with comprehensive documentation
-
----
-
-### Nextay Hotel Management System
-**Cross-Platform Hotel Booking & Management Solution**
-
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/nextay)
-
-Modern hotel management application streamlining the entire booking lifecycle from reservation to check-out.
-
-**Tech Stack:** Flutter, Flask, MongoDB
+**Tech Stack:** Flask, Scikit-learn, JWT, React, Python, RESTful APIs
 
 **Key Features:**
-- Automated booking and check-in/out processes
-- Real-time room availability tracking
-- Payment integration and receipt generation
-- Admin dashboard for operations management
+- Multi-layered authentication system with IP-bound session management
+- Machine learning-based spam classification with TF-IDF vectorization
+- Adversarial input filtering to prevent injection attacks and malicious payloads
+- Real-time threat monitoring dashboard built with React
+- Comprehensive logging and audit trail system for security compliance
 
----
-
-### Restaurant RMS
-**Data-Driven Restaurant Operations Optimizer**
-
-Intelligent system leveraging live data scraping and custom algorithms to optimize restaurant operations and decision-making.
-
-**Tech Stack:** C++, Selenium, Pandas
-
-**Key Features:**
-- Automated data collection from multiple sources
-- Custom optimization algorithms for resource allocation
-- Analytics dashboard with actionable insights
-- Performance metrics and trend analysis
-
----
-
-## Currently Exploring
-
-- Next.js 14 App Router and React Server Components
-- Cybersecurity best practices for AI/ML systems
-- Advanced TypeScript patterns and Vite optimization
-- Microservices architecture and containerization
+**Technical Highlights:**
+- Achieved 95% spam detection accuracy with ensemble ML models
+- Implemented rate limiting and API throttling for DDoS protection
+- Designed RESTful API architecture with comprehensive Swagger documentation
+- Built interactive analytics dashboard for threat visualization
 
 ---
 
 ## Professional Experience
 
-### Teaching Assistant – Object-Oriented Programming
-**University of Engineering & Technology, Lahore**
+### Teaching Assistant – Programming Fundamentals & OOP
+**University of Engineering and Technology, Lahore** | *January 2024 – May 2024*
 
-Mentored over 100 students in object-oriented programming principles, debugging techniques, and software design patterns. Conducted lab sessions, evaluated assignments, and provided one-on-one support for complex programming concepts.
+- Instructed over 100 students in Programming Fundamentals and Object-Oriented Programming lab sessions
+- Led hands-on workshops in C# and Python application development, version control with GitHub, and GUI design using WinForms
+- Achieved 95% student project completion rate through personalized mentoring and structured guidance
+- Developed supplementary learning materials and debugging tutorials for complex programming concepts
+
+---
+
+## Certifications
+
+**HackerRank Certified:**
+- Software Engineer
+- SQL (Advanced)
+- Python (Advanced)
+- Problem Solving (Advanced)
+- C# (Intermediate)
+- Front-end Developer (React)
 
 ---
 
@@ -144,9 +170,15 @@ Mentored over 100 students in object-oriented programming principles, debugging 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waliallah019&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=waliallah019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waliallah019&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waliallah019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waliallah019&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -154,20 +186,20 @@ Mentored over 100 students in object-oriented programming principles, debugging 
 
 ## Let's Connect
 
-I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate. Whether you're interested in open-source contributions, technical consultations, or just want to connect over shared interests in technology and security.
+I'm always open to discussing innovative projects, technical challenges, or collaboration opportunities. Whether you're interested in AI/ML systems, full-stack development, or building secure applications, feel free to reach out.
 
 **Email:** [waliallah019@gmail.com](mailto:waliallah019@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/wali-allah-03142725b](https://www.linkedin.com/in/wali-allah-03142725b/)
 
-**GitHub:** [github.com/waliallah019](https://github.com/waliallah019)
+**Phone:** +92 336 6470094
 
 ---
 
 <div align="center">
 
-### Building secure, scalable solutions for tomorrow's challenges
+### Building intelligent, secure solutions for tomorrow's challenges
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=waliallah019.waliallah019)](https://github.com/waliallah019)
+![Profile Views](https://komarev.com/ghpvc/?username=waliallah019&color=blueviolet&style=flat-square)
 
 </div>
