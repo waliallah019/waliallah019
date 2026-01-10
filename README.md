@@ -166,17 +166,6 @@ An enterprise-grade spam detection system implementing Zero Trust security princ
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-tawny-eight-10.vercel.app/api?username=waliallah019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-tawny-eight-10.vercel.app/api/top-langs/?username=waliallah019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waliallah019&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 
 
