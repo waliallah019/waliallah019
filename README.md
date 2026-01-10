@@ -166,19 +166,17 @@ An enterprise-grade spam detection system implementing Zero Trust security princ
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waliallah019&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waliallah019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waliallah019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waliallah019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=waliallah019&theme=tokyonight&hide_border=true)
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waliallah019&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waliallah019&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
