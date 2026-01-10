@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Wali Allah
+# Hi, I'm Wali Allah 👋
 
-### Software Engineer
+### Software Engineer | AI/ML Enthusiast | Full-Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waliallah019@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wali-allah-03142725b)
@@ -10,9 +10,9 @@
 
 </div>
 
----
+<br>
 
-## About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Wali Allah
@@ -22,17 +22,18 @@ university: University of Engineering and Technology, Lahore
 graduation: 2026
 focus: [AI/ML Systems, Full-Stack Development, LLM Systems]
 ```
-<div align="center">
+
 I like building things that work and understanding why they work.
-</div>
 
-My interests revolve around AI/ML systems, full-stack development, and secure software design. I enjoy exploring LLMs, machine learning, and modern frameworks to create scalable, meaningful applications while keeping the codebase clean and maintainable.
+My interests revolve around **AI/ML systems**, **full-stack development**, and **secure software design**. I enjoy exploring **LLMs**, **machine learning**, and modern frameworks to create scalable, meaningful applications while keeping the codebase clean and maintainable.
+
+> Learning by doing, one project at a time.
+
+<br>
+
+## 🛠️ Technical Expertise
+
 <div align="center">
-Learning by doing, one project at a time.
-</div>
----
-
-## Technical Expertise
 
 ### Languages & Core Technologies
 
@@ -72,50 +73,62 @@ Learning by doing, one project at a time.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
+</div>
 
-## Featured Projects
+<br>
 
-### AutoGit – AI-Powered Git Assistant
+## 🚀 Featured Projects
+
+### 🤖 AutoGit – AI-Powered Git Assistant
+
+<div align="center">
+
 **Intelligent VS Code Extension for Automated Git Workflows**
 
 [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/AutoGit)
 
+</div>
+
 A sophisticated VS Code extension that revolutionizes Git workflows through AI automation, leveraging fine-tuned LLMs for intelligent commit message generation and merge conflict resolution.
 
-**Tech Stack:** Python, Flask, LLMs (LLaMA 3, Mistral, GPT-4), Neo4j, VS Code Extension API, RAG, LoRA
+**💻 Tech Stack:** Python • Flask • LLMs (LLaMA 3, Mistral, GPT-4) • Neo4j • VS Code Extension API • RAG • LoRA
 
-**Key Features:**
+**✨ Key Features:**
 - Fine-tuned LLM integration for context-aware commit message generation
 - Multi-agent architecture for pre-commit bug detection and code quality analysis
 - Neo4j-based graph database for visualizing code evolution and dependencies
 - RAG (Retrieval-Augmented Generation) with LoRA fine-tuning for accurate, context-aware responses
 - Automated merge conflict resolution with intelligent suggestion system
 
-**Technical Highlights:**
+**🔧 Technical Highlights:**
 - Implemented distributed agent system for parallel code analysis
 - Designed custom graph schemas for tracking code changes over time
 - Integrated GitHub API for seamless repository management
 
 ---
 
-### Eduvance – Learning Management System
+### 📚 Eduvance – Learning Management System
+
+<div align="center">
+
 **Enterprise-Grade SaaS Platform for Educational Institutions**
 
 [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/eduvance)
 
+</div>
+
 A comprehensive real-time Learning Management System designed to streamline educational administration through intelligent automation and secure access control.
 
-**Tech Stack:** React.js, Vite, Tailwind CSS, TypeScript, Node.js, Express.js, MongoDB
+**💻 Tech Stack:** React.js • Vite • Tailwind CSS • TypeScript • Node.js • Express.js • MongoDB
 
-**Key Features:**
+**✨ Key Features:**
 - JWT-based authentication with role-based access control (RBAC) for multi-tenant security
 - Real-time attendance tracking system with automated notifications
 - CSP-based (Constraint Satisfaction Problem) timetable generation algorithm
 - Responsive, component-based architecture for optimal performance
 - Admin dashboard with comprehensive analytics and reporting
 
-**Technical Highlights:**
+**🔧 Technical Highlights:**
 - Designed scalable microservices architecture for handling concurrent users
 - Implemented WebSocket connections for real-time data synchronization
 - Optimized database queries reducing load time by 40%
@@ -123,72 +136,78 @@ A comprehensive real-time Learning Management System designed to streamline educ
 
 ---
 
-### ZTrust – Zero Trust Spam Detection System
+### 🔒 ZTrust – Zero Trust Spam Detection System
+
+<div align="center">
+
 **ML-Powered Email Security with Zero Trust Architecture**
 
 [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/ZTrust-Email-Inspector)
 
+</div>
+
 An enterprise-grade spam detection system implementing Zero Trust security principles with advanced machine learning models and comprehensive threat monitoring.
 
-**Tech Stack:** Flask, Scikit-learn, JWT, React, Python, RESTful APIs
+**💻 Tech Stack:** Flask • Scikit-learn • JWT • React • Python • RESTful APIs
 
-**Key Features:**
+**✨ Key Features:**
 - Multi-layered authentication system with IP-bound session management
 - Machine learning-based spam classification with TF-IDF vectorization
 - Adversarial input filtering to prevent injection attacks and malicious payloads
 - Real-time threat monitoring dashboard built with React
 - Comprehensive logging and audit trail system for security compliance
 
-**Technical Highlights:**
+**🔧 Technical Highlights:**
 - Achieved 95% spam detection accuracy with ensemble ML models
 - Implemented rate limiting and API throttling for DDoS protection
 - Designed RESTful API architecture with comprehensive Swagger documentation
 - Built interactive analytics dashboard for threat visualization
 
----
+<br>
 
-## Professional Experience
+## 💼 Professional Experience
 
-### Teaching Assistant – Programming Fundamentals & OOP
-**University of Engineering and Technology, Lahore** | *January 2024 – May 2024*
+**Teaching Assistant – Programming Fundamentals & OOP**  
+*University of Engineering and Technology, Lahore* | January 2024 – May 2024
 
 - Instructed over 100 students in Programming Fundamentals and Object-Oriented Programming lab sessions
 - Led hands-on workshops in C# and Python application development, version control with GitHub, and GUI design using WinForms
 - Achieved 95% student project completion rate through personalized mentoring and structured guidance
 - Developed supplementary learning materials and debugging tutorials for complex programming concepts
 
----
+<br>
 
-## Certifications
-
-**HackerRank Certified:**
-- Software Engineer
-- SQL (Advanced)
-- Python (Advanced)
-- Problem Solving (Advanced)
-- C# (Intermediate)
-- Front-end Developer (React)
-
----
-
-
-
-
-## Let's Connect
-
-I'm always open to discussing innovative projects, technical challenges, or collaboration opportunities. Whether you're interested in AI/ML systems, full-stack development, or building secure applications, feel free to reach out.
-
-**Email:** [waliallah019@gmail.com](mailto:waliallah019@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/wali-allah-03142725b](https://www.linkedin.com/in/wali-allah-03142725b/)
-
-**Phone:** +92 336 6470094
-
----
+## 🏆 Certifications
 
 <div align="center">
 
-### 99% building, 1% bragging
+**HackerRank Certified**
 
+Software Engineer • SQL (Advanced) • Python (Advanced) • Problem Solving (Advanced)  
+C# (Intermediate) • Front-end Developer (React)
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+I'm always open to discussing innovative projects, technical challenges, or collaboration opportunities. Whether you're interested in AI/ML systems, full-stack development, or building secure applications, feel free to reach out.
+
+<div align="center">
+
+**📧 Email:** [waliallah019@gmail.com](mailto:waliallah019@gmail.com)  
+**💼 LinkedIn:** [linkedin.com/in/wali-allah-03142725b](https://www.linkedin.com/in/wali-allah-03142725b/)  
+**📱 Phone:** +92 336 6470094
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 99% building, 1% bragging
+
+![Profile Views](https://komarev.com/ghpvc/?username=waliallah019&color=blue&style=flat-square)
 
 </div>
