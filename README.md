@@ -22,12 +22,14 @@ university: University of Engineering and Technology, Lahore
 graduation: 2026
 focus: [AI/ML Systems, Full-Stack Development, LLM Systems]
 ```
-
+<div align="center">
 I like building things that work and understanding why they work.
+</div>
 
 My interests revolve around AI/ML systems, full-stack development, and secure software design. I enjoy exploring LLMs, machine learning, and modern frameworks to create scalable, meaningful applications while keeping the codebase clean and maintainable.
-
+<div align="center">
 Learning by doing, one project at a time.
+</div>
 ---
 
 ## Technical Expertise
