@@ -185,6 +185,7 @@ I'm always open to discussing innovative projects, technical challenges, or coll
 
 ### 99% building, 1% bragging
 
-Someone is watching 👁️👁️ ![](https://komarev.com/ghpvc/?username=waliallah019&color=ff69b4)
+Someone is watching 👁️👁️ ![](https://komarev.com/ghpvc/?username=waliallah019&color=blueviolet&style=flat-square)
+
 
 </div>
