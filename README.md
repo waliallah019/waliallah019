@@ -170,21 +170,15 @@ An enterprise-grade spam detection system implementing Zero Trust security princ
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waliallah019&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://your-app-name.vercel.app/api?username=waliallah019&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://your-app-name.vercel.app/api/top-langs/?username=waliallah019&layout=compact&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waliallah019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=waliallah019&theme=tokyonight&hide_border=true)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=waliallah019&theme=tokyonight&hide_border=true)
-
-<!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waliallah019&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
----
 
 
 ## Let's Connect
