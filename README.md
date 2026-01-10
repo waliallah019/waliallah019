@@ -79,21 +79,9 @@ My interests revolve around **AI/ML systems**, **full-stack development**, and *
 
 [![Repository](https://img.shields.io/badge/Repository-View%20Code-blue?style=flat-square&logo=github)](https://github.com/waliallah019/AutoGit)
 
-A sophisticated VS Code extension that revolutionizes Git workflows through AI automation, leveraging fine-tuned LLMs for intelligent commit message generation and merge conflict resolution.
+An intelligent VS Code extension that revolutionizes Git workflows through AI automation, leveraging fine-tuned LLMs for intelligent commit message generation and merge conflict resolution.
 
 **Tech Stack:** Python, Flask, LLMs (LLaMA 3, Mistral, GPT-4), Neo4j, VS Code Extension API, RAG, LoRA
-
-**Key Features:**
-- Fine-tuned LLM integration for context-aware commit message generation
-- Multi-agent architecture for pre-commit bug detection and code quality analysis
-- Neo4j-based graph database for visualizing code evolution and dependencies
-- RAG (Retrieval-Augmented Generation) with LoRA fine-tuning for accurate, context-aware responses
-- Automated merge conflict resolution with intelligent suggestion system
-
-**Technical Highlights:**
-- Implemented distributed agent system for parallel code analysis
-- Designed custom graph schemas for tracking code changes over time
-- Integrated GitHub API for seamless repository management
 
 ---
 
@@ -106,19 +94,6 @@ A comprehensive real-time Learning Management System designed to streamline educ
 
 **Tech Stack:** React.js, Vite, Tailwind CSS, TypeScript, Node.js, Express.js, MongoDB
 
-**Key Features:**
-- JWT-based authentication with role-based access control (RBAC) for multi-tenant security
-- Real-time attendance tracking system with automated notifications
-- CSP-based (Constraint Satisfaction Problem) timetable generation algorithm
-- Responsive, component-based architecture for optimal performance
-- Admin dashboard with comprehensive analytics and reporting
-
-**Technical Highlights:**
-- Designed scalable microservices architecture for handling concurrent users
-- Implemented WebSocket connections for real-time data synchronization
-- Optimized database queries reducing load time by 40%
-- Built reusable UI component library with TypeScript for type safety
-
 ---
 
 ### ZTrust – Zero Trust Spam Detection System
@@ -129,19 +104,6 @@ A comprehensive real-time Learning Management System designed to streamline educ
 An enterprise-grade spam detection system implementing Zero Trust security principles with advanced machine learning models and comprehensive threat monitoring.
 
 **Tech Stack:** Flask, Scikit-learn, JWT, React, Python, RESTful APIs
-
-**Key Features:**
-- Multi-layered authentication system with IP-bound session management
-- Machine learning-based spam classification with TF-IDF vectorization
-- Adversarial input filtering to prevent injection attacks and malicious payloads
-- Real-time threat monitoring dashboard built with React
-- Comprehensive logging and audit trail system for security compliance
-
-**Technical Highlights:**
-- Achieved 95% spam detection accuracy with ensemble ML models
-- Implemented rate limiting and API throttling for DDoS protection
-- Designed RESTful API architecture with comprehensive Swagger documentation
-- Built interactive analytics dashboard for threat visualization
 
 ---
 
