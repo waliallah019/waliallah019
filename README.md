@@ -183,8 +183,8 @@ I'm always open to discussing innovative projects, technical challenges, or coll
 
 <div align="center">
 
-### Building intelligent, secure solutions for tomorrow's challenges
+### 99% building, 1% bragging
 
-![Profile Views](https://komarev.com/ghpvc/?username=waliallah019&color=blueviolet&style=flat-square)
+Someone is watching 👁️👁️ ![](https://komarev.com/ghpvc/?username=waliallah019&color=ff69b4)
 
 </div>
