@@ -138,12 +138,6 @@ An enterprise-grade spam detection system implementing Zero Trust security princ
 
 I'm always open to discussing innovative projects, technical challenges, or collaboration opportunities. Whether you're interested in AI/ML systems, full-stack development, or building secure applications, feel free to reach out.
 
-**Email:** [waliallah019@gmail.com](mailto:waliallah019@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/wali-allah-03142725b](https://www.linkedin.com/in/wali-allah-03142725b/)
-
-**Phone:** +92 336 6470094
-
 ---
 
 <div align="center">
